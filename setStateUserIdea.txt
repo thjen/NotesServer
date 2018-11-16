@@ -1,0 +1,17 @@
+step 1: add colum state(value boolean) in user table;
+step 2: insert user will set value user state is false;
+step 3: fetchAllUser will add value state;
+			and get username and state
+			for ()
+				if (list.get(i).getUserName.equals(edittext.gettext) && !list.get(i).getState) {
+					signIn;
+					update state username = true;
+				else
+					Toast;
+			
+step 4: define method signout
+			for ()
+				if (list.get(i).getUserName.equals(edittext.gettext) && list.get(i).getState) {
+					update state username = false;
+	
+			
